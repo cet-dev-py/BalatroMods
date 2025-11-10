@@ -1,0 +1,14 @@
+{
+    "id": "cets-mod",
+    "name": "cet's Balatro Mod!!!",
+    "display_name": "cet's Balatro Mod!!!",
+    "author": ["cet"],
+    "description":"a cool balatro mod made by cet",
+    "prefix": "mm",
+    "main_file":"main.lua",
+    "priority" : 0,
+    "badge_colour": "2596be",
+    "bade_text_colour": "ffffff",
+    "version": "1.0.0",
+    "dependancies": []
+}
