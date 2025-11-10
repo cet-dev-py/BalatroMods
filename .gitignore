@@ -1,0 +1,50 @@
+# --- System files ---
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Cache and temp directories
+.cache/
+tmp/
+temp/
+
+# --- Build and output files ---
+build/
+dist/
+out/
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# --- Logs ---
+*.log
+
+# --- Environment/config ---
+.env
+*.local
+
+# --- Dependency directories ---
+node_modules/
+vendor/
+venv/
+.env/
+__pycache__/
+
+# --- IDEs and editors ---
+.vscode/
+.idea/
+*.iml
+
+# --- Misc ---
+.DS_Store
+Thumbs.db
+
+
+
+
+# Irrelevant directories
+lovely/
+smods-*/
